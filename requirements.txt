@@ -1,0 +1,6 @@
+datasets 
+smolagents 
+langchain-community 
+rank_bm25
+smolagents[litellm]
+smolagents[gradio]
